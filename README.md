@@ -6,5 +6,5 @@ set up the environment and install dependencies
 give your number, to whom you want to send the message, message and finally give the count
 run the code 
 wait for few seconds and when you receive the OTP type it in the cmd line and press enter
-done! the code will execute perfectly if you follow these steps
+done!! the code will execute perfectly if you follow these steps
 
